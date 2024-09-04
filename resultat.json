@@ -1,0 +1,26 @@
+{
+    "intervenant": {
+        "name": "John",
+        "lastName": "Doe",
+        "typeInterv": "Joueur",
+        "numLicence": "920808011",
+        "dateNaissance": "1990-08-08",
+        "nationalite": "Française"
+    },
+    "historique": [
+        {
+            "division": "Division 1",
+            "teamInitial": "ABC",
+            "categorie": "Senior",
+            "season": 2021,
+            "photo": "base64EncodedPhotoString"
+        },
+        {
+            "division": "Division 2",
+            "teamInitial": "XYZ",
+            "categorie": "Junior",
+            "season": 2020,
+            "photo": "base64EncodedPhotoString"
+        }
+    ]
+}
